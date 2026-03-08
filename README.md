@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Toka Elqersh
 
 I'm a **Front-End & Cross-Platform Developer** based in Egypt, passionate about building modern, responsive, and accessible user interfaces.  
-Currently sharpening my skills through the **ITI (Information Technology Institute)** program, after graduating from the **Route Front-End Diploma**.
 
 ---
 
