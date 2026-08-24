@@ -1,44 +1,23 @@
 <!-- ===================== HERO ===================== -->
 
-<div align="center">
-
-<br>
-
-<sub>toka@dev:~$ whoami</sub>
-
 # Toka Elqersh
 
 ### Frontend & Cross-Platform Developer
 
-Building clean, responsive and scalable digital experiences for  
-**Web × Mobile**
-
-<br>
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=const+stack+%3D+%5B%22React%22%2C+%22React+Native%22%2C+%22TypeScript%22%5D%3B;const+focus+%3D+%22Web+%C3%97+Mobile%22%3B;const+status+%3D+%22Open+to+opportunities%22%3B"
-  alt="Developer profile animation"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=900&color=8B949E&vCenter=true&width=650&height=30&lines=Building+for+Web+%C3%97+Mobile;React+%C2%B7+React+Native+%C2%B7+TypeScript;Clean+UI+%C2%B7+Reusable+Architecture+%C2%B7+APIs"
+  alt="Developer focus"
 />
 
-<br>
+Building responsive, maintainable and polished digital products with a focus on **frontend quality and user experience**.
 
-`React` &nbsp;&nbsp; `React Native` &nbsp;&nbsp; `TypeScript` &nbsp;&nbsp; `Next.js`
+`React` `React Native` `TypeScript` `Next.js` `Firebase`
 
-<br><br>
+[LinkedIn ↗](https://www.linkedin.com/in/toka-elqersh) ·
+[Email ↗](mailto:tokaosamaelqersh@gmail.com) ·
+[GitHub ↗](https://github.com/toka09)
 
-<a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn ↗</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:tokaosamaelqersh@gmail.com"><b>Email ↗</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/toka09"><b>GitHub ↗</b></a>
-
-<br><br>
-
-<sub>EGYPT 🇪🇬 &nbsp;&nbsp; / &nbsp;&nbsp; WEB × MOBILE &nbsp;&nbsp; / &nbsp;&nbsp; AVAILABLE FOR OPPORTUNITIES</sub>
-
-<br><br>
-
-</div>
+<sub>Egypt 🇪🇬 · Open to Frontend & Cross-Platform opportunities</sub>
 
 ---
 
