@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero-terminal.webp" width="100%" alt="Toka Elqersh — Frontend & Cross-Platform Developer" />
+  <img src="hero-terminal.webp" width="100%" alt="Toka Elqersh — Frontend & Cross-Platform Developer" />
 </p>
 
 <p align="center">
