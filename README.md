@@ -218,10 +218,6 @@ HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST API
 
 <br>
 
-<p align="center">
-  <sub>EGYPT 🇪🇬 &nbsp;&nbsp;·&nbsp;&nbsp; WEB × MOBILE &nbsp;&nbsp;·&nbsp;&nbsp; AVAILABLE FOR OPPORTUNITIES</sub>
-</p>
-
 ## Contribution Activity
 
 <p align="center">
