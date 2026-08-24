@@ -1,31 +1,19 @@
 <!-- ===================== HERO ===================== -->
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/toka-elqersh">
-    <img
-      src="https://img.shields.io/badge/-161B22?style=for-the-badge&logo=linkedin&logoColor=E6EDF3"
-      alt="LinkedIn"
-      height="34"
-    />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="mailto:tokaosamaelqersh@gmail.com">
-    <img
-      src="https://img.shields.io/badge/-161B22?style=for-the-badge&logo=gmail&logoColor=E6EDF3"
-      alt="Email"
-      height="34"
-    />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/toka09">
-    <img
-      src="https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3"
-      alt="GitHub"
-      height="34"
-    />
-  </a>
+  <img src="./hero-responsive.svg" width="100%" alt="Toka Elqersh — Frontend & Cross-Platform Developer" />
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn ↗</b></a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tokaosamaelqersh@gmail.com"><b>Email ↗</b></a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/toka09"><b>GitHub ↗</b></a>
+</p>
+
+<br>
+
 ---
 
 <!-- ===================== ABOUT ===================== -->
