@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1020,55:312E81,100:6D28D9&text=TOKA%20ELQERSH&fontColor=F8FAFC&fontSize=44&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,55:312E81,100:6D28D9&text=TOKA%20ELQERSH&fontColor=F8FAFC&fontSize=42&fontAlignY=38"
     width="100%"
     alt="Toka Elqersh"
   />
@@ -14,9 +14,9 @@
 
 ### Frontend & Cross-Platform Developer
 
-Building polished experiences for **Web × Mobile**
+Building modern experiences for **Web × Mobile**
 
-`React`   ·   `React Native`   ·   `TypeScript`   ·   `JavaScript`
+`React`  ·  `React Native`  ·  `TypeScript`  ·  `JavaScript`
 
 <br/>
 
@@ -26,10 +26,6 @@ Building polished experiences for **Web × Mobile**
 &nbsp;
 <a href="mailto:tokaosamaelqersh@gmail.com">
   <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=A78BFA" />
-</a>
-&nbsp;
-<a href="https://github.com/toka09">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=A78BFA" />
 </a>
 
 </div>
@@ -44,9 +40,9 @@ Building polished experiences for **Web × Mobile**
 
 ## About
 
-I'm **Toka Elqersh**, a Frontend & Cross-Platform Developer focused on creating responsive, maintainable, and visually polished digital products.
+I'm **Toka Elqersh**, a Frontend & Cross-Platform Developer focused on building responsive, polished, and maintainable digital products.
 
-I work across **web and mobile**, translating designs and ideas into real interfaces using modern frontend technologies, reusable components, API integrations, and thoughtful interaction patterns.
+I work across **web and mobile**, turning ideas and designs into functional interfaces using React, React Native, TypeScript, reusable components, and API integrations.
 
 **ITI Cross-Platform Development Graduate · Route Front-End Development Graduate**
 
@@ -60,122 +56,59 @@ I work across **web and mobile**, translating designs and ideas into real interf
 
 # Selected Work
 
-<sub>A FEW PROJECTS I'VE BUILT & WORKED ON</sub>
-
-<br/><br/>
-
-<!-- ===================== 01 EMBERA ===================== -->
-
-<table>
-<tr>
-<td>
-
-### `01`   EMBERA
-
-**Candle Atelier · Digital Experience**
-
-</td>
-<td align="right">
-
-**[LIVE WEBSITE ↗](https://embera-seven.vercel.app/)**
-
-</td>
-</tr>
-</table>
-
-<a href="https://embera-seven.vercel.app/">
-  <img
-    src="PASTE_EMBERA_ANIMATED_PREVIEW_URL_HERE"
-    width="100%"
-    alt="Embera animated website preview"
-  />
-</a>
+Selected projects across frontend development, responsive web experiences, and digital products.
 
 <br/>
 
-A refined digital experience built around visual storytelling, responsive layouts, and smooth interaction across devices.
+## 01 — EMBERA
 
-`React`   `JavaScript`   `Responsive UI`
+### Candle Atelier / Digital Experience
 
-<br/><br/>
+PASTE_EMBERA_GITHUB_VIDEO_URL_HERE
+
+A refined web experience focused on visual storytelling, responsive layouts, and smooth interaction across devices.
+
+`React` · `JavaScript` · `Responsive UI`
+
+**[View Live Project ↗](https://embera-seven.vercel.app/)**
+
+<br/>
 
 ---
 
 <br/>
 
-<!-- ===================== 02 DST ===================== -->
+## 02 — DST
 
-<table>
-<tr>
-<td>
+### Corporate Technology / Production Website
 
-### `02`   DST
+PASTE_DST_GITHUB_VIDEO_URL_HERE
 
-**Corporate Technology · Production Website**
+A production corporate website with a structured interface and responsive experience across different screen sizes.
 
-</td>
-<td align="right">
+`Frontend Development` · `Responsive Design` · `Production`
 
-**[LIVE WEBSITE ↗](https://www.dst.com.sa/)**
-
-</td>
-</tr>
-</table>
-
-<a href="https://www.dst.com.sa/">
-  <img
-    src="PASTE_DST_ANIMATED_PREVIEW_URL_HERE"
-    width="100%"
-    alt="DST animated website preview"
-  />
-</a>
+**[View Live Project ↗](https://www.dst.com.sa/)**
 
 <br/>
-
-A production corporate website delivering a structured, professional, and responsive experience for a Saudi technology company.
-
-`Frontend Development`   `Responsive Design`   `Production`
-
-<br/><br/>
 
 ---
 
 <br/>
 
-<!-- ===================== 03 VERDORA ===================== -->
+## 03 — VERDORA
 
-<table>
-<tr>
-<td>
+### Modern Web Application
 
-### `03`   VERDORA
+PASTE_VERDORA_GITHUB_VIDEO_URL_HERE
 
-**Modern Web Application**
+A responsive web application built around reusable components, API integration, clean layouts, and intuitive navigation.
 
-</td>
-<td align="right">
+`React` · `API Integration` · `Reusable Components`
 
-**[LIVE WEBSITE ↗](https://verdora-pi.vercel.app/home)**
-
-</td>
-</tr>
-</table>
-
-<a href="https://verdora-pi.vercel.app/home">
-  <img
-    src="PASTE_VERDORA_ANIMATED_PREVIEW_URL_HERE"
-    width="100%"
-    alt="Verdora animated website preview"
-  />
-</a>
+**[View Live Project ↗](https://verdora-pi.vercel.app/home)**
 
 <br/>
-
-A modern responsive application built around reusable components, clean layouts, API-driven content, and intuitive navigation.
-
-`React`   `API Integration`   `Reusable Components`
-
-<br/><br/>
 
 ---
 
@@ -186,7 +119,6 @@ A modern responsive application built around reusable components, clean layouts,
 # Technologies
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -197,25 +129,21 @@ A modern responsive application built around reusable components, clean layouts,
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux&theme=dark" />
 </p>
 
-<sub>
-React · Next.js · TypeScript · JavaScript<br/>
+React · Next.js · TypeScript · JavaScript
 Redux Toolkit · React Router · TanStack Query · Axios
-</sub>
 
 </td>
 
 <td width="50%" valign="top">
 
-### UI & Styling
+### Mobile & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass,materialui,figma&theme=dark" />
 </p>
 
-<sub>
-Tailwind CSS · Bootstrap · Sass · Material UI<br/>
-Ant Design · Figma · Responsive Design
-</sub>
+React Native · Expo · Tailwind CSS
+Bootstrap · Sass · Material UI · Figma
 
 </td>
 
@@ -225,36 +153,31 @@ Ant Design · Figma · Responsive Design
 
 <td width="50%" valign="top">
 
-### Mobile & Integration
+### Backend & Integration
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" />
 </p>
 
-<sub>
-React Native · Expo · Node.js · Express<br/>
-Firebase · Firestore · REST APIs · Authentication
-</sub>
+Node.js · Express · Firebase · Firestore
+Authentication · REST APIs · JSON
 
 </td>
 
 <td width="50%" valign="top">
 
-### Tools
+### Tools & Workflow
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,postman,vercel&theme=dark" />
 </p>
 
-<sub>
-Git · GitHub · VS Code · Vite · npm<br/>
-Postman · Chrome DevTools · Vercel
-</sub>
+Git · GitHub · VS Code · Vite
+npm · Postman · Chrome DevTools · Vercel
 
 </td>
 
 </tr>
-
 </table>
 
 <br/>
@@ -262,13 +185,12 @@ Postman · Chrome DevTools · Vercel
 ---
 
 <!-- =========================================================
-     JOURNEY
+     EDUCATION
 ========================================================= -->
 
-# Journey
+# Education
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -277,15 +199,11 @@ Postman · Chrome DevTools · Vercel
 
 **Information Technology Institute**
 
-`Cross-Platform Development Track`
+Cross-Platform Development Track
 
-**Graduate · 2026**
+`Graduate · 2026`
 
-Practical training across modern web and cross-platform application development.
-
-<br/>
-
-React · React Native · APIs · Architecture · Git · Team Collaboration
+React · React Native · APIs · Application Architecture · Git · Team Collaboration
 
 </td>
 
@@ -295,16 +213,11 @@ React · React Native · APIs · Architecture · Git · Team Collaboration
 
 **Front-End Development Diploma**
 
-Practical frontend training focused on building responsive, modern web applications.
-
-<br/>
-
-HTML · CSS · JavaScript · Bootstrap · React · REST APIs · Git
+HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST APIs · Git
 
 </td>
 
 </tr>
-
 </table>
 
 <br/>
@@ -322,7 +235,7 @@ HTML · CSS · JavaScript · Bootstrap · React · REST APIs · Git
 <img
 width="48%"
 src="https://github-readme-stats.vercel.app/api?username=toka09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED"
-alt="Toka GitHub Stats"
+alt="GitHub Stats"
 />
 
  
@@ -330,7 +243,7 @@ alt="Toka GitHub Stats"
 <img
 width="40%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=toka09&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
-alt="Toka Top Languages"
+alt="Top Languages"
 />
 
 </p>
@@ -347,7 +260,7 @@ alt="Toka Top Languages"
 
 ## Let's Connect
 
-I'm open to **frontend, cross-platform, and product development opportunities**.
+Open to **frontend, cross-platform, and product development opportunities**.
 
 <br/>
 
@@ -365,13 +278,11 @@ I'm open to **frontend, cross-platform, and product development opportunities**.
 
 **WEB   ×   MOBILE   ×   EXPERIENCE**
 
-<sub>Frontend & Cross-Platform Development</sub>
-
 </div>
 
 <br/>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0B1020,55:312E81,100:6D28D9"
+src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:111827,55:312E81,100:6D28D9"
 width="100%"
 />
