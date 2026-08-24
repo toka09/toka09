@@ -39,9 +39,9 @@ Building polished digital experiences for **Web × Mobile**
 
 ## About
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="53%" valign="top">
+<td width="52%" valign="top">
 
 I'm **Toka Elqersh**, a Frontend & Cross-Platform Developer focused on building clean, responsive, and maintainable digital experiences.
 
@@ -52,35 +52,28 @@ I work mainly with **React, React Native, TypeScript, JavaScript, APIs, and mode
 
 </td>
 
-<td width="47%" valign="top">
+<td width="48%" valign="top">
 
 ```ts
 const toka = {
   role: "Frontend & Cross-Platform Developer",
   location: "Egypt 🇪🇬",
 
-  web: ["React", "Next.js", "TypeScript"],
-  mobile: ["React Native", "Expo"],
+  stack: {
+    web: ["React", "Next.js", "TypeScript"],
+    mobile: ["React Native", "Expo"]
+  },
 
   focus: [
     "Responsive UI",
-    "Reusable Architecture",
     "API Integration",
+    "Reusable Architecture",
     "User Experience"
   ],
 
-  status: "ITI Graduate · 2026"
+  education: "ITI Graduate · 2026",
+  status: "Open to opportunities"
 };
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
 <!-- ===================== PROJECTS ===================== -->
 
 ## Selected Work
