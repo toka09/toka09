@@ -4,15 +4,7 @@
   <img src="./hero-responsive.svg" width="100%" alt="Toka Elqersh — Frontend & Cross-Platform Developer" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn ↗</b></a>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tokaosamaelqersh@gmail.com"><b>Email ↗</b></a>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/toka09"><b>GitHub ↗</b></a>
-</p>
 
-<br>
 
 ---
 
