@@ -164,57 +164,81 @@ A modern web experience built around reusable components, clean layouts, respons
 
 <br/>
 
-<!-- ===================== STACK ===================== -->
+<!-- ===================== TECH STACK ===================== -->
 
 # Tech Stack
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux&theme=dark" />
 </p>
 
-`HTML5` · `CSS3` · `JavaScript ES6+` · `TypeScript` · `React` · `Next.js`
+<code>HTML5</code>
+<code>CSS3</code>
+<code>JavaScript</code>
+<code>TypeScript</code>
+<code>React</code>
+<code>Next.js</code>
 
-<br/>
+<br/><br/>
+
+<sub>
+React Router · Redux Toolkit · Context API · TanStack Query · Axios
+</sub>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Styling & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui,figma&theme=dark" />
 </p>
 
-`Tailwind CSS` · `Bootstrap` · `Sass` · `Material UI` · `Ant Design`
+<code>Tailwind CSS</code>
+<code>Bootstrap</code>
+<code>Sass</code>
+<code>Material UI</code>
 
-`Responsive Design` · `Mobile-First Development`
+<br/><br/>
 
-<br/>
+<sub>
+Ant Design · Responsive Design · Mobile-First UI · Figma
+</sub>
 
-### React Ecosystem
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Mobile & Cross-Platform
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" />
 </p>
 
-`React Router` · `Redux Toolkit` · `Context API`
+<code>React Native</code>
+<code>Expo</code>
 
-`TanStack Query` · `Axios` · `State Management`
+<br/><br/>
 
-`Reusable Components` · `Component-Based Architecture`
+<sub>
+Cross-Platform Development · Responsive Mobile UI
+</sub>
 
-<br/>
+</td>
 
-### Cross-Platform & Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-</p>
-
-`React Native` · `Expo` · `Cross-Platform Development`
-
-`Android Development` · `Responsive Mobile Interfaces`
-
-<br/>
+<td width="50%" valign="top">
 
 ### Backend & Integration
 
@@ -222,25 +246,44 @@ A modern web experience built around reusable components, clean layouts, respons
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" />
 </p>
 
-`Node.js` · `Express.js`
+<code>Node.js</code>
+<code>Express.js</code>
+<code>Firebase</code>
 
-`Firebase` · `Firestore` · `Firebase Authentication`
+<br/><br/>
 
-`REST APIs` · `API Integration` · `JSON`
+<sub>
+Firestore · Authentication · REST APIs · JSON · API Integration
+</sub>
 
-<br/>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,postman&theme=dark" />
 </p>
 
-`Git` · `GitHub` · `VS Code` · `Vite`
+<code>Git</code>
+<code>GitHub</code>
+<code>VS Code</code>
+<code>Vite</code>
 
-`npm` · `Postman` · `Chrome DevTools` · `Figma`
+<br/><br/>
 
-<br/>
+<sub>
+npm · Postman · Chrome DevTools
+</sub>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Deployment
 
@@ -248,7 +291,21 @@ A modern web experience built around reusable components, clean layouts, respons
   <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" />
 </p>
 
-`Vercel` · `Netlify` · `GitHub Pages`
+<code>Vercel</code>
+<code>Netlify</code>
+<code>GitHub Pages</code>
+
+<br/><br/>
+
+<sub>
+Deployment · Hosting · Production Builds
+</sub>
+
+</td>
+
+</tr>
+
+</table>
 
 <br/>
 
