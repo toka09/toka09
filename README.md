@@ -1,86 +1,226 @@
-<div align="center">
+<!-- ===================== HERO ===================== -->
 
-# Hi, I'm Toka Elqersh 👋
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=210&section=header&text=Toka%20Elqersh&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn"
+    width="100%"
+  />
+</p>
 
-### Frontend & Cross-Platform Developer
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Frontend+%26+Cross-Platform+Developer;React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript;Building+for+Web+%C3%97+Mobile"
+    alt="Typing SVG"
+  />
+</p>
 
-I build modern, responsive web experiences and cross-platform applications with a focus on clean interfaces, reusable components, and maintainable code.
+<p align="center">
+  Building modern web and mobile experiences with clean UI,<br/>
+  reusable architecture, and thoughtful interactions.
+</p>
 
-**React · React Native · JavaScript · TypeScript**
+<p align="center">
+  <a href="https://www.linkedin.com/in/toka-elqersh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:tokaosamaelqersh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/toka09">
+    <img src="https://img.shields.io/badge/GitHub-toka09-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-📍 Egypt
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/toka-elqersh) · [Email](mailto:tokaosamaelqersh@gmail.com)
+<!-- ===================== ABOUT ===================== -->
 
-</div>
+## ✦ About Me
 
----
+```ts
+const toka = {
+  role: "Frontend & Cross-Platform Developer",
+  location: "Egypt 🇪🇬",
 
-## About Me
+  web: ["React", "Next.js", "TypeScript"],
+  mobile: ["React Native", "Expo"],
 
-I'm a **Frontend & Cross-Platform Developer** passionate about building digital products that are clean, responsive, functional, and enjoyable to use.
+  interests: [
+    "Frontend Architecture",
+    "Responsive Interfaces",
+    "API Integration",
+    "Cross-Platform Development",
+    "UI Implementation"
+  ],
 
-My work focuses on translating ideas and designs into production-ready interfaces using modern frontend technologies, while paying close attention to component reusability, responsive behavior, API integration, performance, and user experience.
+  education: {
+    ITI: "Cross-Platform Development Track — Graduate",
+    Route: "Front-End Development Diploma"
+  }
+};
+```
 
-I recently completed the **ITI Cross-Platform Development Track**, after completing the **Route Front-End Development Diploma**.
+I enjoy working where **design meets development** — turning visual ideas into responsive, functional, and polished digital products.
 
-I enjoy working at the intersection of **design and development**, turning visual concepts into polished experiences across web and mobile platforms.
+My focus is building interfaces that don't just work, but feel **clean, intuitive, scalable, and consistent** across web and mobile.
 
----
+<br/>
 
-## Selected Work
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
-### Embera — Candle Atelier
+# ✦ Selected Work
 
-A modern digital experience for a candle and lifestyle brand with a strong focus on visual presentation, responsive layouts, and a polished user experience.
+<table>
+<tr>
 
-**Live Website →** [embera-seven.vercel.app](https://embera-seven.vercel.app/)
+<td width="50%" valign="top">
 
----
+<h3 align="center">EMBERA</h3>
 
-### DST — Digital Solutions & Technology
+<a href="https://embera-seven.vercel.app/">
+  <img src="./assets/embera.png" width="100%" alt="Embera Project"/>
+</a>
 
-A production corporate website for a Saudi-based technology company, delivering a clear, structured, and responsive experience across different devices.
+<br/><br/>
 
-**Live Website →** [dst.com.sa](https://www.dst.com.sa/)
+A polished candle and lifestyle experience focused on strong visual presentation, responsive layouts, and smooth interaction.
 
----
+<p align="center">
 
-### Verdora
+`React`   `JavaScript`   `Responsive UI`
 
-A modern responsive web experience built around clean layouts, reusable components, intuitive navigation, and smooth interaction across different screen sizes.
+</p>
 
-**Live Website →** [verdora-pi.vercel.app](https://verdora-pi.vercel.app/home)
+<p align="center">
+  <a href="https://embera-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW%20LIVE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
----
+</td>
 
-## Tech Stack
+<td width="50%" valign="top">
+
+<h3 align="center">DST</h3>
+
+<a href="https://www.dst.com.sa/">
+  <img src="./assets/dst.png" width="100%" alt="DST Project"/>
+</a>
+
+<br/><br/>
+
+A production corporate website delivering a structured, professional, and responsive digital experience for a Saudi technology company.
+
+<p align="center">
+
+`Frontend`   `Responsive`   `Production`
+
+</p>
+
+<p align="center">
+  <a href="https://www.dst.com.sa/">
+    <img src="https://img.shields.io/badge/VIEW%20LIVE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="100%" valign="top">
+
+<h3 align="center">VERDORA</h3>
+
+<a href="https://verdora-pi.vercel.app/home">
+  <img src="./assets/verdora.png" width="100%" alt="Verdora Project"/>
+</a>
+
+<br/>
+
+A modern web experience built around reusable components, clean layouts, responsive behavior, and intuitive navigation.
+
+<p align="center">
+
+`React`   `API Integration`   `Responsive Design`
+
+</p>
+
+<p align="center">
+  <a href="https://verdora-pi.vercel.app/home">
+    <img src="https://img.shields.io/badge/VIEW%20LIVE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== STACK ===================== -->
+
+# ✦ Tech Stack
 
 ### Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
+</p>
+
 `HTML5` · `CSS3` · `JavaScript ES6+` · `TypeScript` · `React` · `Next.js`
+
+<br/>
+
+### Styling & UI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui&theme=dark" />
+</p>
 
 `Tailwind CSS` · `Bootstrap` · `Sass` · `Material UI` · `Ant Design`
 
 `Responsive Design` · `Mobile-First Development`
 
+<br/>
+
 ### React Ecosystem
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redux&theme=dark" />
+</p>
 
 `React Router` · `Redux Toolkit` · `Context API`
 
-`TanStack Query` · `Axios` · `Reusable Components`
+`TanStack Query` · `Axios` · `State Management`
 
-`State Management` · `Component-Based Architecture`
+`Reusable Components` · `Component-Based Architecture`
+
+<br/>
 
 ### Cross-Platform & Mobile
 
-`React Native` · `Expo`
+<p>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+</p>
 
-`Android Studio` · `Cross-Platform Development`
+`React Native` · `Expo` · `Cross-Platform Development`
 
-`Responsive Mobile Interfaces`
+`Android Development` · `Responsive Mobile Interfaces`
+
+<br/>
 
 ### Backend & Integration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" />
+</p>
 
 `Node.js` · `Express.js`
 
@@ -88,172 +228,156 @@ A modern responsive web experience built around clean layouts, reusable componen
 
 `REST APIs` · `API Integration` · `JSON`
 
-### Development Tools
+<br/>
 
-`Git` · `GitHub`
+### Tools & Workflow
 
-`VS Code` · `Postman`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,postman,figma&theme=dark" />
+</p>
 
-`npm` · `Vite`
+`Git` · `GitHub` · `VS Code` · `Vite`
 
-`Chrome DevTools`
+`npm` · `Postman` · `Chrome DevTools` · `Figma`
 
-`Figma`
+<br/>
 
 ### Deployment
 
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" />
+</p>
+
 `Vercel` · `Netlify` · `GitHub Pages`
 
----
+<br/>
 
-## What I Do
+<!-- ===================== WHAT I BUILD ===================== -->
 
-* Build responsive web applications
-* Develop modern interfaces with React
-* Build cross-platform applications with React Native
-* Convert UI designs into functional interfaces
-* Create reusable and scalable components
-* Integrate REST APIs
-* Handle application state and data fetching
-* Work with Firebase services
-* Implement authentication flows
-* Build responsive layouts for desktop, tablet, and mobile
-* Improve frontend performance and usability
-* Maintain clean and organized codebases
-* Use Git and GitHub for version control and collaboration
-* Deploy production-ready applications
+# ✦ What I Build
 
----
+<table>
+<tr>
 
-## Development Focus
+<td align="center" width="33%">
 
-```text
-Frontend Development      ████████████████████
-React Development         ████████████████████
-Responsive UI             ████████████████████
-Cross-Platform Apps       ██████████████████
-API Integration           ██████████████████
-UI Implementation         ████████████████████
-```
+### 🌐 Web
 
----
+Responsive and scalable web applications built with modern frontend technologies.
 
-## Education & Training
+</td>
 
-### Information Technology Institute — ITI
+<td align="center" width="33%">
+
+### 📱 Mobile
+
+Cross-platform mobile experiences using React Native and Expo.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔗 Integration
+
+API-driven applications connected to external services and backend systems.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== EDUCATION ===================== -->
+
+# ✦ Journey
+
+### 🎓 Information Technology Institute — ITI
 
 **Cross-Platform Development Track**
-**Graduate · 2026**
 
-Intensive hands-on training focused on building modern web and cross-platform applications using frontend and mobile development technologies.
+`Graduate · 2026`
 
-The program strengthened my skills in:
+Hands-on training across modern frontend and cross-platform application development, including React, React Native, APIs, application architecture, Git, and collaborative development.
 
-* Modern JavaScript development
-* React development
-* React Native
-* API integration
-* Application architecture
-* Responsive interfaces
-* Version control
-* Team collaboration
-* Cross-platform development
-* Practical project development
+<br/>
 
----
-
-### Route Academy
+### 🎓 Route Academy
 
 **Front-End Development Diploma**
 
-Built a strong foundation in modern frontend development with practical experience in:
+Practical training in frontend fundamentals, JavaScript, responsive development, React, API integration, and modern web development.
 
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-* React
-* Responsive Web Design
-* API integration
-* Git & GitHub
+<br/>
 
----
+<!-- ===================== FOCUS ===================== -->
 
-## How I Approach Development
+# ✦ Development Focus
 
-I care about more than making an interface simply work.
+<p align="center">
 
-I focus on:
+<img src="https://img.shields.io/badge/Responsive%20UI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-6366F1?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native-4F46E5?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Integration-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-6D28D9?style=for-the-badge"/>
 
-**Clean UI**
-Creating interfaces that feel polished, structured, and easy to use.
+</p>
 
-**Reusable Components**
-Building components that can be maintained and reused across different parts of an application.
+<br/>
 
-**Responsive Experiences**
-Making sure interfaces work properly across desktop, tablet, and mobile devices.
+<!-- ===================== STATS ===================== -->
 
-**Maintainable Code**
-Keeping code organized, readable, and easy to extend.
+# ✦ GitHub at a Glance
 
-**API Integration**
-Connecting frontend applications with external services and handling application data efficiently.
+<p align="center">
 
-**User Experience**
-Thinking about how users interact with a product, not only how the interface looks.
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=toka09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9"
+/>
 
----
+<img
+width="37%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=toka09&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+/>
 
-## Web × Mobile
+</p>
 
-My main focus is creating experiences across both platforms:
+<br/>
 
-### Web
+<!-- ===================== CONTACT ===================== -->
 
-`React` · `Next.js` · `JavaScript` · `TypeScript`
+# ✦ Let's Connect
 
-### Mobile
+<p align="center">
 
-`React Native` · `Expo`
+I'm interested in building meaningful products, collaborating with great teams,<br/>
+and creating better experiences across **web × mobile**.
 
-### Data
+<br/>
 
-`REST APIs` · `Firebase` · `TanStack Query` · `Axios`
+<a href="https://www.linkedin.com/in/toka-elqersh">
+  <img src="https://img.shields.io/badge/LinkedIn-Toka%20Elqersh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### UI
+<a href="mailto:tokaosamaelqersh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-`Tailwind CSS` · `Bootstrap` · `Material UI` · `Ant Design`
+</p>
 
----
+<br/>
 
-## Currently Focused On
+<p align="center">
+  <b>WEB&nbsp;&nbsp; × &nbsp;&nbsp;MOBILE&nbsp;&nbsp; × &nbsp;&nbsp;EXPERIENCE</b>
+</p>
 
-* Building production-ready React applications
-* Developing cross-platform mobile experiences
-* Improving frontend architecture
-* Advanced TypeScript
-* State management patterns
-* API-driven applications
-* Performance optimization
-* Writing cleaner and more scalable code
+<p align="center">
+  <sub>Designed & built by Toka Elqersh</sub>
+</p>
 
----
-
-## Let's Connect
-
-I'm always interested in connecting with developers, designers, and teams building meaningful digital products.
-
-**LinkedIn →** [linkedin.com/in/toka-elqersh](https://www.linkedin.com/in/toka-elqersh)
-
-**Email →** [tokaosamaelqersh@gmail.com](mailto:tokaosamaelqersh@gmail.com)
-
----
-
-<div align="center">
-
-### Web × Mobile × Clean Experiences
-
-**Building interfaces that look good, work well, and scale.**
-
-</div>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=110&section=footer"
+width="100%"
+/>
