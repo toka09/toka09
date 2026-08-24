@@ -2,32 +2,40 @@
 
 <div align="center">
 
+<br>
+
+# Toka Elqersh
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1600&pause=650&color=8B5CF6&center=true&vCenter=true&width=760&lines=%24+initializing+toka.dev...;%E2%9C%93+stack+loaded%3A+React+%C2%B7+React+Native+%C2%B7+TypeScript;%3E+ready+to+build+for+Web+%C3%97+Mobile_"
-  alt="Toka terminal intro"
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2300&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer;Cross-Platform+Developer;Building+for+Web+%C3%97+Mobile"
+  alt="Toka Elqersh"
 />
 
 <br>
 
-
-`React` &nbsp;·&nbsp; `React Native` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Next.js`
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn ↗</b></a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="mailto:tokaosamaelqersh@gmail.com"><b>Email ↗</b></a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/toka09"><b>GitHub ↗</b></a>
+Turning ideas into **clean, responsive and polished digital products.**
 
 <br><br>
 
-<sub>Based in Egypt 🇪🇬 &nbsp;·&nbsp; Open to frontend & cross-platform opportunities</sub>
+`React` &nbsp;&nbsp; `React Native` &nbsp;&nbsp; `TypeScript` &nbsp;&nbsp; `Next.js`
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/toka-elqersh">LinkedIn ↗</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:tokaosamaelqersh@gmail.com">Email ↗</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/toka09">GitHub ↗</a>
+
+<br><br>
+
+<sub>Egypt 🇪🇬 &nbsp; / &nbsp; Web × Mobile</sub>
+
+<br><br>
 
 </div>
 
-<br>
-
+---
 ---
 ## About
 
