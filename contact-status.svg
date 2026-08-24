@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104">
+  <rect x="1" y="1" width="1198" height="102" rx="16" fill="#0F141A" stroke="#2D333B"/>
+  <circle cx="40" cy="52" r="6" fill="#3FB950">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="62" y="45" fill="#8B949E" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="1.2">CURRENT STATUS</text>
+  <text x="62" y="70" fill="#E6EDF3" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="600">Open to Frontend, Cross-Platform &amp; Product Development opportunities</text>
+
+  <text x="1138" y="44" text-anchor="end" fill="#8B949E" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">web × mobile</text>
+  <rect x="971" y="61" width="167" height="3" rx="1.5" fill="#232A33"/>
+  <rect x="971" y="61" width="42" height="3" rx="1.5" fill="#4F7DF3">
+    <animate attributeName="x" values="971;1096;971" dur="3.8s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="42;22;42" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
