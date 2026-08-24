@@ -1,0 +1,11 @@
+READY TO UPLOAD
+
+This folder is already complete:
+- README.md
+- assets/hero.png
+- assets/embera-preview.webp
+- assets/dst-preview.webp
+- assets/verdora-preview.webp
+
+Upload the CONTENTS of this folder to the root of your GitHub profile repository `toka09`.
+No editing is required for the image/video previews; the README already points to the included files.
