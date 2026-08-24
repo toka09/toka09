@@ -1,14 +1,122 @@
-<p align="center">
-  <img src="./hero-catchy.webp" width="100%" alt="Toka Elqersh — Frontend & Cross-Platform Developer" />
+<!-- ===================== HERO ===================== -->
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+
+<!-- LEFT SIDE -->
+<td width="54%" valign="middle">
+
+<sub>toka@dev:~$ whoami_</sub>
+
+<h1>Toka Elqersh</h1>
+
+<h3>Frontend & Cross-Platform Developer</h3>
+
+<p>
+I build clean, responsive and scalable digital experiences
+for <b>Web × Mobile</b>.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tokaosamaelqersh@gmail.com"><b>Email</b></a>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/toka09"><b>GitHub</b></a>
-</p>
+<br>
+
+<code>React</code>
+&nbsp;
+<code>React Native</code>
+&nbsp;
+<code>TypeScript</code>
+&nbsp;
+<code>Next.js</code>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/toka-elqersh">
+  LinkedIn ↗
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:tokaosamaelqersh@gmail.com">
+  Email ↗
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/toka09">
+  GitHub ↗
+</a>
+
+</td>
+
+
+<!-- RIGHT SIDE -->
+<td width="46%" valign="middle">
+
+<sub>toka.dev / profile</sub>
+
+<br><br>
+
+<pre>
+toka@dev:~$ init profile
+
+> loading environment       ✓
+> loading skills            ✓
+> loading projects          ✓
+> preparing experience      ✓
+
+✓ profile compiled successfully
+
+toka@dev:~$ _
+</pre>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+
+<!-- ===================== INFO BAR ===================== -->
+
+<table align="center" width="100%">
+<tr>
+
+<td width="33%" align="center">
+
+<sub>LOCATION</sub>
+
+<br>
+
+<b>Egypt 🇪🇬</b>
+
+</td>
+
+
+<td width="33%" align="center">
+
+<sub>FOCUS</sub>
+
+<br>
+
+<b>Web × Mobile</b>
+
+</td>
+
+
+<td width="33%" align="center">
+
+<sub>STATUS</sub>
+
+<br>
+
+<b>Open to opportunities</b> 🟢
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
