@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,45:1E1B4B,100:7C3AED&text=TOKA%20ELQERSH&fontColor=F8FAFC&fontSize=44&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:0D1117,45:25204F,100:7C3AED&text=Toka%20Elqersh&fontColor=F8FAFC&fontSize=45&fontAlignY=37&animation=fadeIn"
     width="100%"
     alt="Toka Elqersh"
   />
@@ -10,20 +10,20 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Frontend+%26+Cross-Platform+Developer;Building+for+Web+%C3%97+Mobile;React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript;Clean+UI.+Scalable+Code.+Real+Products."
-    alt="Animated introduction"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Frontend+%26+Cross-Platform+Developer;Building+polished+experiences+for+Web+%C3%97+Mobile;React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript"
+    alt="Animated developer title"
   />
 </p>
 
 <p align="center">
-  Building polished, responsive products across <b>web and mobile</b>.
+  Clean interfaces &nbsp;·&nbsp; Reusable architecture &nbsp;·&nbsp; Thoughtful interactions
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
   <a href="mailto:tokaosamaelqersh@gmail.com"><b>Email</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/toka09"><b>GitHub</b></a>
 </p>
 
@@ -36,25 +36,15 @@
 ## About
 
 <p align="center">
-  I build <b>clean, responsive, and maintainable products</b> across web and mobile,
-  turning ideas and interfaces into polished digital experiences.
-</p>
-
-<p align="center">
-  React · React Native · TypeScript · API Integration · UI Architecture
+  I build <b>responsive, maintainable, and visually polished products</b> across web and mobile.
 </p>
 
 <br>
 
-<table align="center" width="88%">
-<tr>
-<td>
-
-<sub><b>developer.profile.ts</b></sub>
-
-<pre><code>const toka = {
+```ts
+const toka = {
   role: "Frontend & Cross-Platform Developer",
-  location: "Egypt",
+  location: "Egypt 🇪🇬",
 
   stack: {
     web: ["React", "Next.js", "TypeScript"],
@@ -64,22 +54,13 @@
   focus: [
     "Responsive UI",
     "Reusable Architecture",
-    "API Integration"
+    "API Integration",
+    "User Experience"
   ],
 
-  education: "ITI Graduate · 2026",
   status: "Open to opportunities"
-};</code></pre>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <sub>ITI Cross-Platform Development Graduate · Route Front-End Development Graduate</sub>
-</p>
+};
+```
 
 <br>
 
@@ -206,7 +187,7 @@ npm · Postman · Vercel
 
 ## Education
 
-<table>
+<table align="center" width="82%">
 <tr>
 
 <td width="50%" valign="top">
@@ -217,7 +198,9 @@ npm · Postman · Vercel
 Cross-Platform Development Track  
 **Graduate · 2026**
 
+<sub>
 React · React Native · APIs · Application Architecture · Git · Team Collaboration
+</sub>
 
 </td>
 
@@ -227,7 +210,9 @@ React · React Native · APIs · Application Architecture · Git · Team Collabo
 
 **Front-End Development Diploma**
 
+<sub>
 HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST APIs · Git
+</sub>
 
 </td>
 
@@ -249,21 +234,21 @@ Open to **Frontend, Cross-Platform, and Product Development opportunities**.
 <br>
 
 <a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
 <a href="mailto:tokaosamaelqersh@gmail.com"><b>Email Me</b></a>
 
 <br><br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2600&pause=850&color=8B5CF6&center=true&vCenter=true&width=650&lines=CODE.+BUILD.+SHIP.+REPEAT.;WEB+%C3%97+MOBILE+%C3%97+EXPERIENCE;Always+building+something+better."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=toka%40github%3A~%24+building+for+web+%C3%97+mobile_;toka%40github%3A~%24+open+to+opportunities_"
   alt="Animated footer"
- />
+/>
 
 </div>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:0D1117,45:1E1B4B,100:7C3AED&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&color=0:0D1117,45:25204F,100:7C3AED"
     width="100%"
     alt=""
   />
