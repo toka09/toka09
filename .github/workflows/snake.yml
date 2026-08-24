@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,10 +18,9 @@ jobs:
           github_user_name: toka09
 
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#7C3AED
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#E6EDF3&color_dots=#161B22,#1D2733,#243B55,#315A82,#4F7DF3
 
-      - name: Push snake to output branch
+      - name: Push snake files
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
