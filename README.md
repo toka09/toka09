@@ -1,11 +1,7 @@
 <!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img
-    src="./hero-responsive.svg"
-    width="100%"
-    alt="Toka Elqersh — Frontend & Cross-Platform Developer"
-  />
+  <img src="./hero-responsive.svg" width="100%" alt="Toka Elqersh — Frontend & Cross-Platform Developer" />
 </p>
 
 ---
@@ -15,9 +11,10 @@
 ## About
 
 <p align="center">
-  I build <b>responsive, maintainable, and visually polished products</b>
-  across web and mobile.
+  I build <b>responsive, maintainable, and visually polished products</b> across web and mobile.
 </p>
+
+<br>
 
 ```ts
 const toka = {
@@ -25,16 +22,8 @@ const toka = {
   location: "Egypt 🇪🇬",
 
   stack: {
-    web: [
-      "React",
-      "Next.js",
-      "TypeScript"
-    ],
-
-    mobile: [
-      "React Native",
-      "Expo"
-    ]
+    web: ["React", "Next.js", "TypeScript"],
+    mobile: ["React Native", "Expo"]
   },
 
   focus: [
@@ -58,39 +47,35 @@ const toka = {
 
 <p align="center">
   <a href="https://embera-seven.vercel.app/">
-    <img
-      src="./embera.webp"
-      width="520"
-      alt="Embera animated preview"
-    />
+    <img src="./embera.webp" width="520" alt="Embera animated preview" />
   </a>
   <a href="https://www.dst.com.sa/">
-    <img
-      src="./dst.webp"
-      width="520"
-      alt="DST animated preview"
-    />
+    <img src="./dst.webp" width="520" alt="DST animated preview" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Tap a preview to open the live project ↗</sub>
+  <sub>
+    <b>EMBERA</b> · Candle Atelier
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>DST</b> · Corporate Technology
+  </sub>
 </p>
 
 <br>
 
 <p align="center">
   <a href="https://verdora-pi.vercel.app/home">
-    <img
-      src="./verdora.webp"
-      width="1060"
-      alt="Verdora animated preview"
-    />
+    <img src="./verdora.webp" width="1060" alt="Verdora animated preview" />
   </a>
 </p>
 
 <p align="center">
-  <sub><b>VERDORA</b> · Modern Web Application · Tap to view live ↗</sub>
+  <sub><b>VERDORA</b> · Modern Web Application</sub>
+</p>
+
+<p align="center">
+  <sub>Click any preview to open the live project ↗</sub>
 </p>
 
 <br>
@@ -101,63 +86,75 @@ const toka = {
 
 ## Technology
 
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
 ### Frontend
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux&theme=dark"
-    alt="Frontend technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux&theme=dark" />
 </p>
 
 <sub>
-React · Next.js · TypeScript · JavaScript · Redux Toolkit · React Router · TanStack Query · Axios
+React · Next.js · TypeScript · JavaScript<br>
+Redux Toolkit · React Router · TanStack Query · Axios
 </sub>
 
-<br><br>
+</td>
+
+<td width="50%" valign="top">
 
 ### Mobile & Integration
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=react,firebase,nodejs,express&theme=dark"
-    alt="Mobile and integration technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=react,firebase,nodejs,express&theme=dark" />
 </p>
 
 <sub>
-React Native · Expo · Firebase · Firestore · Node.js · Express · Authentication · REST APIs
+React Native · Expo · Firebase · Firestore<br>
+Node.js · Express · Authentication · REST APIs
 </sub>
 
-<br><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### UI
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui,figma&theme=dark"
-    alt="UI technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui,figma&theme=dark" />
 </p>
 
 <sub>
-Tailwind CSS · Bootstrap · Sass · Material UI · Ant Design · Figma
+Tailwind CSS · Bootstrap · Sass<br>
+Material UI · Ant Design · Figma
 </sub>
 
-<br><br>
+</td>
+
+<td width="50%" valign="top">
 
 ### Workflow
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,postman,vercel&theme=dark"
-    alt="Workflow tools"
-  />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,postman,vercel&theme=dark" />
 </p>
 
 <sub>
-Git · GitHub · VS Code · Vite · npm · Postman · Vercel
+Git · GitHub · VS Code · Vite<br>
+npm · Postman · Vercel
 </sub>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -167,16 +164,24 @@ Git · GitHub · VS Code · Vite · npm · Postman · Vercel
 
 ## Education
 
-### ITI — Information Technology Institute
+<table align="center" width="100%">
+<tr>
 
-**Cross-Platform Development Track**  
+<td width="50%" valign="top">
+
+### ITI
+**Information Technology Institute**
+
+Cross-Platform Development Track  
 **Graduate · 2026**
 
 <sub>
 React · React Native · APIs · Application Architecture · Git · Team Collaboration
 </sub>
 
-<br><br>
+</td>
+
+<td width="50%" valign="top">
 
 ### Route Academy
 
@@ -186,54 +191,36 @@ React · React Native · APIs · Application Architecture · Git · Team Collabo
 HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST APIs · Git
 </sub>
 
+</td>
+
+</tr>
+</table>
+
 <br>
-
----
-
-<!-- ===================== CONTACT ===================== -->
 
 ## Let's Connect
 
 <p align="center">
-  <img
-    src="./contact-status.svg"
-    width="100%"
-    alt="Open to opportunities"
-  />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/toka-elqersh">
-    <img
-      src="./contact-linkedin.svg"
-      width="180"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="mailto:tokaosamaelqersh@gmail.com">
-    <img
-      src="./contact-email.svg"
-      width="180"
-      alt="Email Me"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    EGYPT 🇪🇬
-    &nbsp;·&nbsp;
-    WEB × MOBILE
-    &nbsp;·&nbsp;
-    AVAILABLE FOR OPPORTUNITIES
-  </sub>
+  <img src="./contact-status.svg" width="100%" alt="Open to opportunities" />
 </p>
 
 <br>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/toka-elqersh">
+    <img src="./contact-linkedin.svg" width="190" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tokaosamaelqersh@gmail.com">
+    <img src="./contact-email.svg" width="190" alt="Email Me" />
+  </a>
+</p>
 
-<!-- ===================== CONTRIBUTIONS ===================== -->
+<br>
+
+<p align="center">
+  <sub>EGYPT 🇪🇬 &nbsp;&nbsp;·&nbsp;&nbsp; WEB × MOBILE &nbsp;&nbsp;·&nbsp;&nbsp; AVAILABLE FOR OPPORTUNITIES</sub>
+</p>
 
 ## Contribution Activity
 
@@ -248,9 +235,9 @@ HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST API
       srcset="https://raw.githubusercontent.com/toka09/toka09/output/github-snake.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/toka09/toka09/output/github-snake-dark.svg"
-      width="100%"
       alt="Toka GitHub contribution snake"
+      src="https://raw.githubusercontent.com/toka09/toka09/output/github-snake.svg"
+      width="100%"
     />
   </picture>
 </p>
