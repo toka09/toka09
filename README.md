@@ -202,31 +202,30 @@ HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST API
 
 <!-- ===================== FOOTER ===================== -->
 
-<div align="center">
+---
+
+<!-- ===================== CONTACT ===================== -->
 
 ## Let's Connect
 
-Open to **Frontend, Cross-Platform, and Product Development opportunities**.
+<p align="center">
+  <img src="./contact-status.svg" width="92%" alt="Open to opportunities" />
+</p>
 
 <br>
 
-<a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="mailto:tokaosamaelqersh@gmail.com"><b>Email Me</b></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/toka-elqersh">
+    <img src="./contact-linkedin.svg" width="210" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tokaosamaelqersh@gmail.com">
+    <img src="./contact-email.svg" width="210" alt="Email Me" />
+  </a>
+</p>
 
-<br><br>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=toka%40github%3A~%24+building+for+web+%C3%97+mobile_;toka%40github%3A~%24+open+to+opportunities_"
-  alt="Animated footer"
-/>
-
-</div>
+<br>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&color=0:0D1117,45:25204F,100:7C3AED"
-    width="100%"
-    alt=""
-  />
+  <sub>EGYPT 🇪🇬 &nbsp;&nbsp;·&nbsp;&nbsp; WEB × MOBILE &nbsp;&nbsp;·&nbsp;&nbsp; AVAILABLE FOR OPPORTUNITIES</sub>
 </p>
