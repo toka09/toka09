@@ -1,42 +1,19 @@
-<!-- ===================== HERO ===================== -->
+<p align="center">
+  <img src="./hero-catchy.webp" width="100%" alt="Toka Elqersh — Frontend & Cross-Platform Developer" />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tokaosamaelqersh@gmail.com"><b>Email</b></a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/toka09"><b>GitHub</b></a>
+</p>
 
 <br>
 
-# Toka Elqersh
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2300&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer;Cross-Platform+Developer;Building+for+Web+%C3%97+Mobile"
-  alt="Toka Elqersh"
-/>
-
-<br>
-
-Turning ideas into **clean, responsive and polished digital products.**
-
-<br><br>
-
-`React` &nbsp;&nbsp; `React Native` &nbsp;&nbsp; `TypeScript` &nbsp;&nbsp; `Next.js`
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/toka-elqersh">LinkedIn ↗</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:tokaosamaelqersh@gmail.com">Email ↗</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/toka09">GitHub ↗</a>
-
-<br><br>
-
-<sub>Egypt 🇪🇬 &nbsp; / &nbsp; Web × Mobile</sub>
-
-<br><br>
-
-</div>
-
 ---
----
+
 ## About
 
 <p align="center">
@@ -222,9 +199,5 @@ Open to **Frontend, Cross-Platform, and Product Development opportunities**.
 [LinkedIn](https://www.linkedin.com/in/toka-elqersh)
 &nbsp;&nbsp;·&nbsp;&nbsp;
 [Email](mailto:tokaosamaelqersh@gmail.com)
-
-<br><br>
-
-<img src="./footer-terminal.webp" width="100%" alt="Toka terminal footer animation" />
 
 </div>
