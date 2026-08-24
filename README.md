@@ -33,7 +33,7 @@ I work mainly with **React, React Native, TypeScript, JavaScript, APIs, and mode
 **Candle Atelier / Digital Experience**
 
 <a href="https://embera-seven.vercel.app/">
-  <img src="./assets/embera-preview.webp" width="100%" alt="Embera animated project preview" />
+  <img src="embera-preview.webp" width="100%" alt="Embera animated project preview" />
 </a>
 
 A refined digital experience built around visual storytelling, responsive layouts, and smooth interaction across devices.
@@ -52,7 +52,7 @@ A refined digital experience built around visual storytelling, responsive layout
 **Corporate Technology / Production Website**
 
 <a href="https://www.dst.com.sa/">
-  <img src="./assets/dst-preview.webp" width="100%" alt="DST animated project preview" />
+  <img src="dst-preview.webp" width="100%" alt="DST animated project preview" />
 </a>
 
 A production corporate website delivering a structured, professional, and responsive experience across devices.
@@ -71,7 +71,7 @@ A production corporate website delivering a structured, professional, and respon
 **Modern Web Application**
 
 <a href="https://verdora-pi.vercel.app/home">
-  <img src="./assets/verdora-preview.webp" width="100%" alt="Verdora animated project preview" />
+  <img src="verdora-preview.webp" width="100%" alt="Verdora animated project preview" />
 </a>
 
 A responsive web application built around reusable components, API integration, clean layouts, and intuitive navigation.
