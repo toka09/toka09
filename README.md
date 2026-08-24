@@ -1,31 +1,30 @@
 <!-- ===================== HERO ===================== -->
 
-# Toka Elqersh
+<p align="center">
+  <img src="./hero-responsive.svg" width="100%" alt="Toka Elqersh — Frontend & Cross-Platform Developer" />
+</p>
 
-### Frontend & Cross-Platform Developer
+<p align="center">
+  <a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn ↗</b></a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tokaosamaelqersh@gmail.com"><b>Email ↗</b></a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/toka09"><b>GitHub ↗</b></a>
+</p>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=900&color=8B949E&vCenter=true&width=650&height=30&lines=Building+for+Web+%C3%97+Mobile;React+%C2%B7+React+Native+%C2%B7+TypeScript;Clean+UI+%C2%B7+Reusable+Architecture+%C2%B7+APIs"
-  alt="Developer focus"
-/>
-
-Building responsive, maintainable and polished digital products with a focus on **frontend quality and user experience**.
-
-`React` `React Native` `TypeScript` `Next.js` `Firebase`
-
-[LinkedIn ↗](https://www.linkedin.com/in/toka-elqersh) ·
-[Email ↗](mailto:tokaosamaelqersh@gmail.com) ·
-[GitHub ↗](https://github.com/toka09)
-
-<sub>Egypt 🇪🇬 · Open to Frontend & Cross-Platform opportunities</sub>
+<br>
 
 ---
+
+<!-- ===================== ABOUT ===================== -->
 
 ## About
 
 <p align="center">
   I build <b>responsive, maintainable, and visually polished products</b> across web and mobile.
 </p>
+
+<br>
 
 ```ts
 const toka = {
@@ -51,6 +50,8 @@ const toka = {
 <br>
 
 ---
+
+<!-- ===================== PROJECTS ===================== -->
 
 ## Selected Work
 
@@ -89,10 +90,13 @@ const toka = {
 
 ---
 
+<!-- ===================== TECHNOLOGY ===================== -->
+
 ## Technology
 
 <table align="center" width="82%">
 <tr>
+
 <td width="50%" valign="top">
 
 ### Frontend
@@ -122,9 +126,11 @@ Node.js · Express · Authentication · REST APIs
 </sub>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### UI
@@ -154,6 +160,7 @@ npm · Postman · Vercel
 </sub>
 
 </td>
+
 </tr>
 </table>
 
@@ -161,10 +168,13 @@ npm · Postman · Vercel
 
 ---
 
+<!-- ===================== EDUCATION ===================== -->
+
 ## Education
 
 <table align="center" width="82%">
 <tr>
+
 <td width="50%" valign="top">
 
 ### ITI
@@ -190,6 +200,7 @@ HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST API
 </sub>
 
 </td>
+
 </tr>
 </table>
 
@@ -197,14 +208,33 @@ HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST API
 
 ---
 
+<!-- ===================== FOOTER ===================== -->
+
 <div align="center">
 
 ## Let's Connect
 
 Open to **Frontend, Cross-Platform, and Product Development opportunities**.
 
-[LinkedIn](https://www.linkedin.com/in/toka-elqersh)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[Email](mailto:tokaosamaelqersh@gmail.com)
+<br>
+
+<a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="mailto:tokaosamaelqersh@gmail.com"><b>Email Me</b></a>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=toka%40github%3A~%24+building+for+web+%C3%97+mobile_;toka%40github%3A~%24+open+to+opportunities_"
+  alt="Animated footer"
+/>
 
 </div>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&color=0:0D1117,45:25204F,100:7C3AED"
+    width="100%"
+    alt=""
+  />
+</p>
