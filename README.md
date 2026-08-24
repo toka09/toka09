@@ -1,214 +1,149 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hero.png" width="100%" alt="Toka Elqersh — Frontend & Cross-Platform Developer" />
+</p>
 
-# TOKA ELQERSH
+<p align="center">
+  <a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tokaosamaelqersh@gmail.com"><b>Email</b></a>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/toka09"><b>GitHub</b></a>
+</p>
 
-### Frontend & Cross-Platform Developer
+<br>
 
-Building thoughtful interfaces for **web and mobile**.
+## ABOUT
 
-<br/>
+I'm **Toka Elqersh**, a **Frontend & Cross-Platform Developer** focused on building polished, responsive, and maintainable digital products across **web and mobile**.
 
-[LinkedIn](https://www.linkedin.com/in/toka-elqersh)    /    [Email](mailto:tokaosamaelqersh@gmail.com)    /    [GitHub](https://github.com/toka09)
+I work mainly with **React, React Native, TypeScript, JavaScript, APIs, and modern frontend tooling**, with particular attention to interface quality, reusable architecture, and user experience.
 
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## About
-
-Frontend & Cross-Platform Developer based in Egypt, focused on building responsive, maintainable, and visually polished digital products.
-
-I work mainly with **React, React Native, TypeScript, JavaScript, APIs, and modern frontend tooling**, with particular attention to interface quality, component architecture, and user experience.
-
-**ITI Cross-Platform Development Graduate — 2026**
+**ITI Cross-Platform Development Graduate — 2026**  
 **Route Front-End Development Graduate**
 
-<br/><br/>
+<br>
 
 ---
 
-<br/>
+# SELECTED WORK
 
-# Selected Work
+<br>
 
-<sub>SELECTED WEB PROJECTS · 2026</sub>
-
-<br/><br/><br/>
-
-## 01 / EMBERA
-
-### Candle Atelier
+### `01` &nbsp; EMBERA
+**Candle Atelier / Digital Experience**
 
 <a href="https://embera-seven.vercel.app/">
-  <img
-    src="PASTE_EMBERA_ANIMATED_WEBP_URL"
-    width="100%"
-    alt="Embera project preview"
-  />
+  <img src="./assets/embera-preview.webp" width="100%" alt="Embera animated project preview" />
 </a>
 
-<br/>
+A refined digital experience built around visual storytelling, responsive layouts, and smooth interaction across devices.
 
-`React`    `JavaScript`    `Responsive UI`
+`React` &nbsp; `JavaScript` &nbsp; `Responsive UI`
 
-A refined digital experience built around strong visual storytelling, responsive layouts, and subtle interaction.
+**[VIEW LIVE PROJECT ↗](https://embera-seven.vercel.app/)**
 
-**[Visit Embera ↗](https://embera-seven.vercel.app/)**
-
-<br/><br/><br/>
+<br><br>
 
 ---
 
-<br/><br/>
+<br>
 
-## 02 / DST
-
-### Digital Supply & Trading
+### `02` &nbsp; DST
+**Corporate Technology / Production Website**
 
 <a href="https://www.dst.com.sa/">
-  <img
-    src="PASTE_DST_ANIMATED_WEBP_URL"
-    width="100%"
-    alt="DST project preview"
-  />
+  <img src="./assets/dst-preview.webp" width="100%" alt="DST animated project preview" />
 </a>
 
-<br/>
+A production corporate website delivering a structured, professional, and responsive experience across devices.
 
-`Frontend Development`    `Responsive Design`    `Production`
+`Frontend Development` &nbsp; `Responsive Design` &nbsp; `Production`
 
-A production corporate website developed to deliver a structured, professional, and responsive experience across devices.
+**[VIEW LIVE PROJECT ↗](https://www.dst.com.sa/)**
 
-**[Visit DST ↗](https://www.dst.com.sa/)**
-
-<br/><br/><br/>
+<br><br>
 
 ---
 
-<br/><br/>
+<br>
 
-## 03 / VERDORA
-
-### Modern Web Application
+### `03` &nbsp; VERDORA
+**Modern Web Application**
 
 <a href="https://verdora-pi.vercel.app/home">
-  <img
-    src="PASTE_VERDORA_ANIMATED_WEBP_URL"
-    width="100%"
-    alt="Verdora project preview"
-  />
+  <img src="./assets/verdora-preview.webp" width="100%" alt="Verdora animated project preview" />
 </a>
 
-<br/>
+A responsive web application built around reusable components, API integration, clean layouts, and intuitive navigation.
 
-`React`    `API Integration`    `Reusable Components`
+`React` &nbsp; `API Integration` &nbsp; `Reusable Components`
 
-A responsive application built around reusable components, API-driven content, and intuitive navigation.
+**[VIEW LIVE PROJECT ↗](https://verdora-pi.vercel.app/home)**
 
-**[Visit Verdora ↗](https://verdora-pi.vercel.app/home)**
-
-<br/><br/><br/>
+<br><br>
 
 ---
 
-<br/>
+# TECHNOLOGY
 
-# Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,firebase,nodejs,express,git,github,vscode,vite,npm,postman,figma,vercel&theme=dark" />
+</p>
 
-<sub>TECHNOLOGIES I WORK WITH</sub>
+<p align="center">
+  React · Next.js · TypeScript · JavaScript · React Native · Expo · Redux Toolkit · React Router · TanStack Query · Axios
+  <br>
+  Tailwind CSS · Bootstrap · Sass · Material UI · Ant Design · Firebase · Firestore · REST APIs · Node.js · Express
+  <br>
+  Git · GitHub · VS Code · Vite · npm · Postman · Figma · Vercel
+</p>
 
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux&theme=dark" />
-
-React · Next.js · TypeScript · JavaScript · Redux Toolkit · React Router · TanStack Query · Axios
-
-<br/><br/>
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" />
-
-React Native · Expo · Cross-Platform Development
-
-<br/><br/>
-
-### UI
-
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui,figma&theme=dark" />
-
-Tailwind CSS · Bootstrap · Sass · Material UI · Ant Design · Figma
-
-<br/><br/>
-
-### Backend & Integration
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" />
-
-Node.js · Express · Firebase · Firestore · Authentication · REST APIs
-
-<br/><br/>
-
-### Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,postman,vercel&theme=dark" />
-
-Git · GitHub · VS Code · Vite · npm · Postman · Vercel
-
-<br/><br/><br/>
+<br>
 
 ---
 
-<br/>
+# EDUCATION
 
-# Background
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<sub>EDUCATION & TRAINING</sub>
-
-<br/><br/>
-
-### 2026 — Information Technology Institute
-
-**Cross-Platform Development Track · Graduate**
-
-Intensive practical training in modern web and cross-platform application development.
+### 2026 — ITI
+**Information Technology Institute**  
+Cross-Platform Development Track — **Graduate**
 
 React · React Native · APIs · Application Architecture · Git · Team Collaboration
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
 ### Route Academy
-
 **Front-End Development Diploma**
 
-Frontend development training focused on building modern, responsive web applications.
+HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST APIs · Git
 
-HTML · CSS · JavaScript · Bootstrap · React · REST APIs · Git
+</td>
+</tr>
+</table>
 
-<br/><br/><br/>
+<br>
 
 ---
 
-<br/>
-
 <div align="center">
 
-# Let's Connect
+## LET'S CONNECT
 
-I'm open to frontend, cross-platform, and product development opportunities.
+I'm open to **Frontend, Cross-Platform, and Product Development opportunities**.
 
-<br/>
+<br>
 
-[LinkedIn](https://www.linkedin.com/in/toka-elqersh)    /    [Email](mailto:tokaosamaelqersh@gmail.com)
+<a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+<a href="mailto:tokaosamaelqersh@gmail.com"><b>Email Me</b></a>
 
-<br/><br/><br/>
+<br><br>
 
-`WEB`    ×    `MOBILE`    ×    `EXPERIENCE`
+**WEB &nbsp; × &nbsp; MOBILE &nbsp; × &nbsp; EXPERIENCE**
 
 </div>
