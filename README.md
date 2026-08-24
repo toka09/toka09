@@ -198,15 +198,6 @@ HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST API
 
 <br>
 
----
----
-
-<!-- ===================== FOOTER ===================== -->
-
----
-
-<!-- ===================== CONTACT ===================== -->
-
 ## Let's Connect
 
 <p align="center">
@@ -229,23 +220,4 @@ HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST API
 
 <p align="center">
   <sub>EGYPT 🇪🇬 &nbsp;&nbsp;·&nbsp;&nbsp; WEB × MOBILE &nbsp;&nbsp;·&nbsp;&nbsp; AVAILABLE FOR OPPORTUNITIES</sub>
-</p>
-## Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/toka09/toka09/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/toka09/toka09/output/github-snake.svg"
-    />
-    <img
-      alt="Toka contribution snake"
-      src="https://raw.githubusercontent.com/toka09/toka09/output/github-snake.svg"
-      width="100%"
-    />
-  </picture>
 </p>
