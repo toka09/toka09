@@ -3,38 +3,40 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=780&lines=%3E+initializing+profile...;%3E+loading+frontend+stack...;%3E+react+.............+ready;%3E+react+native+......+ready;%3E+typescript+........+ready"
-  alt="Terminal Intro"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1600&pause=650&color=8B5CF6&center=true&vCenter=true&width=760&lines=%24+initializing+toka.dev...;%E2%9C%93+stack+loaded%3A+React+%C2%B7+React+Native+%C2%B7+TypeScript;%3E+ready+to+build+for+Web+%C3%97+Mobile_"
+  alt="Toka terminal intro"
 />
 
-<br><br>
+<br>
 
 # Toka Elqersh
 
 ### Frontend & Cross-Platform Developer
 
-Building polished digital experiences for **Web × Mobile**
-
-`React` &nbsp; `React Native` &nbsp; `TypeScript` &nbsp; `JavaScript`
+Building **clean, responsive, and scalable digital experiences**  
+across **Web × Mobile**
 
 <br>
 
-<a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:tokaosamaelqersh@gmail.com"><b>Email</b></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/toka09"><b>GitHub</b></a>
+`React` &nbsp;·&nbsp; `React Native` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Next.js`
 
 <br><br>
 
-<sub>ITI Cross-Platform Development Graduate · 2026 · Egypt 🇪🇬</sub>
+<a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn ↗</b></a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="mailto:tokaosamaelqersh@gmail.com"><b>Email ↗</b></a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/toka09"><b>GitHub ↗</b></a>
+
+<br><br>
+
+<sub>Based in Egypt 🇪🇬 &nbsp;·&nbsp; Open to frontend & cross-platform opportunities</sub>
 
 </div>
 
 <br>
 
 ---
-
 ## About
 
 <p align="center">
