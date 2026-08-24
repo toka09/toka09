@@ -1,124 +1,44 @@
 <!-- ===================== HERO ===================== -->
 
-<br>
-
-<table align="center" width="100%">
-<tr>
-
-<!-- LEFT SIDE -->
-<td width="54%" valign="middle">
-
-<sub>toka@dev:~$ whoami_</sub>
-
-<h1>Toka Elqersh</h1>
-
-<h3>Frontend & Cross-Platform Developer</h3>
-
-<p>
-I build clean, responsive and scalable digital experiences
-for <b>Web × Mobile</b>.
-</p>
+<div align="center">
 
 <br>
 
-<code>React</code>
-&nbsp;
-<code>React Native</code>
-&nbsp;
-<code>TypeScript</code>
-&nbsp;
-<code>Next.js</code>
+<sub>toka@dev:~$ whoami</sub>
+
+# Toka Elqersh
+
+### Frontend & Cross-Platform Developer
+
+Building clean, responsive and scalable digital experiences for  
+**Web × Mobile**
+
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=const+stack+%3D+%5B%22React%22%2C+%22React+Native%22%2C+%22TypeScript%22%5D%3B;const+focus+%3D+%22Web+%C3%97+Mobile%22%3B;const+status+%3D+%22Open+to+opportunities%22%3B"
+  alt="Developer profile animation"
+/>
+
+<br>
+
+`React` &nbsp;&nbsp; `React Native` &nbsp;&nbsp; `TypeScript` &nbsp;&nbsp; `Next.js`
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/toka-elqersh">
-  LinkedIn ↗
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:tokaosamaelqersh@gmail.com">
-  Email ↗
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/toka09">
-  GitHub ↗
-</a>
-
-</td>
-
-
-<!-- RIGHT SIDE -->
-<td width="46%" valign="middle">
-
-<sub>toka.dev / profile</sub>
+<a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn ↗</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:tokaosamaelqersh@gmail.com"><b>Email ↗</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/toka09"><b>GitHub ↗</b></a>
 
 <br><br>
 
-<pre>
-toka@dev:~$ init profile
+<sub>EGYPT 🇪🇬 &nbsp;&nbsp; / &nbsp;&nbsp; WEB × MOBILE &nbsp;&nbsp; / &nbsp;&nbsp; AVAILABLE FOR OPPORTUNITIES</sub>
 
-> loading environment       ✓
-> loading skills            ✓
-> loading projects          ✓
-> preparing experience      ✓
+<br><br>
 
-✓ profile compiled successfully
-
-toka@dev:~$ _
-</pre>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-
-<!-- ===================== INFO BAR ===================== -->
-
-<table align="center" width="100%">
-<tr>
-
-<td width="33%" align="center">
-
-<sub>LOCATION</sub>
-
-<br>
-
-<b>Egypt 🇪🇬</b>
-
-</td>
-
-
-<td width="33%" align="center">
-
-<sub>FOCUS</sub>
-
-<br>
-
-<b>Web × Mobile</b>
-
-</td>
-
-
-<td width="33%" align="center">
-
-<sub>STATUS</sub>
-
-<br>
-
-<b>Open to opportunities</b> 🟢
-
-</td>
-
-</tr>
-</table>
-
-<br>
+</div>
 
 ---
 
