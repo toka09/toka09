@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">Toka Elqersh — Frontend and Cross-Platform Developer</title>
+  <desc id="desc">A responsive-interface themed animated GitHub profile hero.</desc>
+
+  <rect width="1600" height="500" rx="24" fill="#0B0D10"/>
+  <rect x="1" y="1" width="1598" height="498" rx="23" fill="none" stroke="#242830"/>
+
+  <!-- subtle editorial guides -->
+  <path d="M72 70H1528" stroke="#1B1F26"/>
+  <path d="M72 430H1528" stroke="#1B1F26"/>
+  <path d="M940 70V430" stroke="#1B1F26"/>
+
+  <!-- LEFT / identity -->
+  <text x="82" y="115" fill="#7E8A9A"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="18" letter-spacing="1.5">01 / PROFILE</text>
+
+  <text x="80" y="214" fill="#F3F4F1"
+        font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif"
+        font-weight="700" font-size="74" letter-spacing="-2">TOKA ELQERSH</text>
+
+  <rect x="82" y="244" width="6" height="38" rx="3" fill="#4F7DF3"/>
+  <text x="108" y="272" fill="#D7DBE2"
+        font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif"
+        font-weight="600" font-size="27">Frontend &amp; Cross-Platform Developer</text>
+
+  <text x="82" y="326" fill="#9AA4B2"
+        font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif"
+        font-size="21">Building clean, responsive interfaces for web × mobile.</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">
+    <rect x="82"  y="365" width="95"  height="34" rx="8" fill="#141820" stroke="#252B34"/>
+    <text x="103" y="388" fill="#E7E9EC">React</text>
+
+    <rect x="190" y="365" width="151" height="34" rx="8" fill="#141820" stroke="#252B34"/>
+    <text x="211" y="388" fill="#E7E9EC">React Native</text>
+
+    <rect x="354" y="365" width="125" height="34" rx="8" fill="#141820" stroke="#252B34"/>
+    <text x="375" y="388" fill="#E7E9EC">TypeScript</text>
+
+    <rect x="492" y="365" width="103" height="34" rx="8" fill="#141820" stroke="#252B34"/>
+    <text x="514" y="388" fill="#E7E9EC">Next.js</text>
+  </g>
+
+  <!-- RIGHT / responsive browser canvas -->
+  <g>
+    <rect x="986" y="96" width="506" height="310" rx="18" fill="#10141A" stroke="#303640"/>
+    <circle cx="1020" cy="126" r="5" fill="#59616D"/>
+    <circle cx="1042" cy="126" r="5" fill="#59616D"/>
+    <circle cx="1064" cy="126" r="5" fill="#59616D"/>
+    <text x="1414" y="132" text-anchor="end" fill="#697584"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="15">responsive.preview</text>
+
+    <!-- breakpoint pill: three labels cross-fade -->
+    <rect x="1018" y="156" width="176" height="34" rx="17" fill="#151B24" stroke="#27303B"/>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+       font-size="14" fill="#AAB4C2">
+      <text x="1038" y="178">
+        1440 / desktop
+        <animate attributeName="opacity" values="1;1;0;0;0;1" dur="6s" repeatCount="indefinite"/>
+      </text>
+      <text x="1038" y="178" opacity="0">
+        768 / tablet
+        <animate attributeName="opacity" values="0;0;1;1;0;0" dur="6s" repeatCount="indefinite"/>
+      </text>
+      <text x="1038" y="178" opacity="0">
+        390 / mobile
+        <animate attributeName="opacity" values="0;0;0;0;1;1" dur="6s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- desktop layout -->
+    <g>
+      <animate attributeName="opacity" values="1;1;0;0;0;1" dur="6s" repeatCount="indefinite"/>
+      <rect x="1018" y="210" width="440" height="34" rx="8" fill="#17202B"/>
+      <rect x="1018" y="258" width="210" height="112" rx="10" fill="#17202B"/>
+      <rect x="1248" y="258" width="210" height="112" rx="10" fill="#17202B"/>
+      <rect x="1042" y="222" width="134" height="10" rx="5" fill="#4F7DF3"/>
+      <rect x="1042" y="282" width="116" height="10" rx="5" fill="#778292"/>
+      <rect x="1042" y="301" width="145" height="7" rx="3.5" fill="#333C48"/>
+      <rect x="1272" y="282" width="102" height="10" rx="5" fill="#778292"/>
+      <rect x="1272" y="301" width="144" height="7" rx="3.5" fill="#333C48"/>
+    </g>
+
+    <!-- tablet layout -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" dur="6s" repeatCount="indefinite"/>
+      <rect x="1082" y="210" width="312" height="34" rx="8" fill="#17202B"/>
+      <rect x="1082" y="258" width="148" height="112" rx="10" fill="#17202B"/>
+      <rect x="1246" y="258" width="148" height="112" rx="10" fill="#17202B"/>
+      <rect x="1102" y="222" width="104" height="10" rx="5" fill="#4F7DF3"/>
+      <rect x="1102" y="282" width="83" height="10" rx="5" fill="#778292"/>
+      <rect x="1102" y="301" width="108" height="7" rx="3.5" fill="#333C48"/>
+      <rect x="1266" y="282" width="78" height="10" rx="5" fill="#778292"/>
+      <rect x="1266" y="301" width="106" height="7" rx="3.5" fill="#333C48"/>
+    </g>
+
+    <!-- mobile layout -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;1;1" dur="6s" repeatCount="indefinite"/>
+      <rect x="1162" y="208" width="152" height="164" rx="18" fill="#151B22" stroke="#2B3440"/>
+      <rect x="1178" y="228" width="120" height="24" rx="6" fill="#17202B"/>
+      <rect x="1178" y="265" width="120" height="42" rx="8" fill="#17202B"/>
+      <rect x="1178" y="319" width="120" height="35" rx="8" fill="#17202B"/>
+      <rect x="1192" y="235" width="76" height="8" rx="4" fill="#4F7DF3"/>
+      <rect x="1192" y="278" width="68" height="8" rx="4" fill="#778292"/>
+      <rect x="1192" y="291" width="88" height="6" rx="3" fill="#333C48"/>
+    </g>
+
+    <!-- tiny moving scan line -->
+    <rect x="1002" y="201" width="3" height="168" rx="1.5" fill="#4F7DF3" opacity=".55">
+      <animate attributeName="x" values="1002;1470;1002" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".15;.6;.15" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- footer metadata -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <text x="82" y="456" fill="#778292">EGYPT</text>
+    <text x="210" y="456" fill="#778292">WEB × MOBILE</text>
+    <text x="394" y="456" fill="#778292">AVAILABLE FOR OPPORTUNITIES</text>
+    <circle cx="620" cy="451" r="5" fill="#4F7DF3">
+      <animate attributeName="opacity" values=".35;1;.35" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
