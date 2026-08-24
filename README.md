@@ -1,31 +1,35 @@
 <!-- ===================== HERO ===================== -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,45:1E1B4B,100:7C3AED&text=TOKA%20ELQERSH&fontColor=F8FAFC&fontSize=44&fontAlignY=38&animation=fadeIn"
-    width="100%"
-    alt="Toka Elqersh"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Frontend+%26+Cross-Platform+Developer;Building+for+Web+%C3%97+Mobile;React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript;Clean+UI.+Scalable+Code.+Real+Products."
-    alt="Animated introduction"
-  />
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=780&lines=%3E+initializing+profile...;%3E+loading+frontend+stack...;%3E+react+.............+ready;%3E+react+native+......+ready;%3E+typescript+........+ready"
+  alt="Terminal Intro"
+/>
 
-<p align="center">
-  Building polished, responsive products across <b>web and mobile</b>.
-</p>
+<br><br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:tokaosamaelqersh@gmail.com"><b>Email</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/toka09"><b>GitHub</b></a>
-</p>
+# Toka Elqersh
+
+### Frontend & Cross-Platform Developer
+
+Building polished digital experiences for **Web × Mobile**
+
+`React` &nbsp; `React Native` &nbsp; `TypeScript` &nbsp; `JavaScript`
+
+<br>
+
+<a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:tokaosamaelqersh@gmail.com"><b>Email</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/toka09"><b>GitHub</b></a>
+
+<br><br>
+
+<sub>ITI Cross-Platform Development Graduate · 2026 · Egypt 🇪🇬</sub>
+
+</div>
 
 <br>
 
