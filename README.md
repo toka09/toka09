@@ -27,17 +27,23 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/toka-elqersh">
-    <img src="https://img.shields.io/badge/LinkedIn-Toka%20Elqersh-1E1B4B?style=flat&logo=linkedin&logoColor=C4B5FD" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tokaosamaelqersh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-1E1B4B?style=flat&logo=gmail&logoColor=C4B5FD" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/toka09">
-    <img src="https://img.shields.io/badge/GitHub-toka09-1E1B4B?style=flat&logo=github&logoColor=C4B5FD" />
-  </a>
+
+<a href="https://www.linkedin.com/in/toka-elqersh">
+  <img src="https://img.shields.io/badge/LinkedIn-Toka%20Elqersh-1E1B4B?style=flat&logo=linkedin&logoColor=C4B5FD" />
+</a>
+
+  
+
+<a href="mailto:tokaosamaelqersh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-1E1B4B?style=flat&logo=gmail&logoColor=C4B5FD" />
+</a>
+
+  
+
+<a href="https://github.com/toka09">
+  <img src="https://img.shields.io/badge/GitHub-toka09-1E1B4B?style=flat&logo=github&logoColor=C4B5FD" />
+</a>
+
 </p>
 
 <br/>
@@ -116,17 +122,13 @@ A selection of live projects focused on responsive interfaces, frontend developm
 
 ## EMBERA
 
-**Candle Atelier · Digital Experience**
-
-<a href="https://embera-seven.vercel.app/">
-  <img
-    src="https://image.thum.io/get/width/1600/crop/850/noanimate/https://embera-seven.vercel.app/"
-    width="100%"
-    alt="Embera Website Preview"
-  />
-</a>
+<sub>CANDLE ATELIER · DIGITAL EXPERIENCE</sub>
 
 <br/><br/>
+
+PASTE_EMBERA_GITHUB_VIDEO_URL_HERE
+
+<br/>
 
 A refined candle and lifestyle experience built around strong visual storytelling, responsive layouts, and smooth interaction across different screen sizes.
 
@@ -146,17 +148,13 @@ A refined candle and lifestyle experience built around strong visual storytellin
 
 ## DST
 
-**Corporate Technology Website**
-
-<a href="https://www.dst.com.sa/">
-  <img
-    src="https://image.thum.io/get/width/1600/crop/850/noanimate/https://www.dst.com.sa/"
-    width="100%"
-    alt="DST Website Preview"
-  />
-</a>
+<sub>CORPORATE TECHNOLOGY WEBSITE</sub>
 
 <br/><br/>
+
+PASTE_DST_GITHUB_VIDEO_URL_HERE
+
+<br/>
 
 A production corporate website delivering a structured, professional, and responsive digital experience for a Saudi technology company.
 
@@ -176,17 +174,13 @@ A production corporate website delivering a structured, professional, and respon
 
 ## VERDORA
 
-**Modern Web Application**
-
-<a href="https://verdora-pi.vercel.app/home">
-  <img
-    src="https://image.thum.io/get/width/1600/crop/850/noanimate/https://verdora-pi.vercel.app/home"
-    width="100%"
-    alt="Verdora Website Preview"
-  />
-</a>
+<sub>MODERN WEB APPLICATION</sub>
 
 <br/><br/>
+
+PASTE_VERDORA_GITHUB_VIDEO_URL_HERE
+
+<br/>
 
 A modern responsive web application built around reusable components, clean layouts, API-driven content, and intuitive navigation.
 
@@ -341,7 +335,6 @@ Deployment · Hosting · Production Builds
 # What I Build
 
 <table>
-
 <tr>
 
 <td align="center" width="33%" valign="top">
@@ -375,7 +368,6 @@ Applications powered by REST APIs, Firebase, authentication, and external servic
 </td>
 
 </tr>
-
 </table>
 
 <br/>
@@ -389,7 +381,6 @@ Applications powered by REST APIs, Firebase, authentication, and external servic
 # Journey
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -425,7 +416,6 @@ HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST API
 </td>
 
 </tr>
-
 </table>
 
 <br/>
@@ -441,14 +431,22 @@ HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST API
 <p align="center">
 
 <img src="https://img.shields.io/badge/Responsive%20UI-1E1B4B?style=flat&logoColor=DDD6FE" />
-&nbsp;
+
+ 
+
 <img src="https://img.shields.io/badge/React-1E1B4B?style=flat&logo=react&logoColor=61DAFB" />
-&nbsp;
+
+ 
+
 <img src="https://img.shields.io/badge/React%20Native-1E1B4B?style=flat&logo=react&logoColor=61DAFB" />
-&nbsp;
+
+ 
+
 <img src="https://img.shields.io/badge/API%20Integration-1E1B4B?style=flat&logoColor=DDD6FE" />
-&nbsp;
-<img src="https://img.shields.io/badge/Frontend%20Architecture-1E1B4B?style=flat&logoColor=DDD6FE" />
+
+ 
+
+<img src="https://img.shields.io/badge/Architecture-1E1B4B?style=flat&logoColor=DDD6FE" />
 
 </p>
 
@@ -464,7 +462,7 @@ HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST API
 ---
 
 <!-- =========================================================
-     GITHUB STATS
+     GITHUB
 ========================================================= -->
 
 # GitHub at a Glance
@@ -492,7 +490,7 @@ alt="Top Languages"
 ---
 
 <!-- =========================================================
-     CONTACT
+     CONNECT
 ========================================================= -->
 
 # Let's Connect
