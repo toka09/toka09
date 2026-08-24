@@ -5,11 +5,29 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn ↗</b></a>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tokaosamaelqersh@gmail.com"><b>Email ↗</b></a>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/toka09"><b>GitHub ↗</b></a>
+  <a href="https://www.linkedin.com/in/toka-elqersh">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=E6EDF3"
+      alt="LinkedIn"
+      height="28"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:tokaosamaelqersh@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=E6EDF3"
+      alt="Email"
+      height="28"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/toka09">
+    <img
+      src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=E6EDF3"
+      alt="GitHub"
+      height="28"
+    />
+  </a>
 </p>
 
 <br>
