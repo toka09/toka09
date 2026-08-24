@@ -9,14 +9,6 @@
 
 <br>
 
-# Toka Elqersh
-
-### Frontend & Cross-Platform Developer
-
-Building **clean, responsive, and scalable digital experiences**  
-across **Web × Mobile**
-
-<br>
 
 `React` &nbsp;·&nbsp; `React Native` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Next.js`
 
