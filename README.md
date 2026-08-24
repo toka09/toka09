@@ -2,34 +2,40 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=210&section=header&text=Toka%20Elqersh&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:7C3AED&height=220&section=header&text=Toka%20Elqersh&fontSize=48&fontColor=F8FAFC&fontAlignY=36&animation=fadeIn"
     width="100%"
+    alt="Toka Elqersh Header"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Frontend+%26+Cross-Platform+Developer;React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript;Building+for+Web+%C3%97+Mobile"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=Frontend+%26+Cross-Platform+Developer;React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript;Building+for+Web+%C3%97+Mobile"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  Building modern web and mobile experiences with clean UI,<br/>
-  reusable architecture, and thoughtful interactions.
+  <sub style="color:#CBD5E1;">
+    Building modern web and mobile experiences with clean UI,
+    <br/>
+    reusable architecture, and thoughtful interactions.
+  </sub>
 </p>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/toka-elqersh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Toka%20Elqersh-111827?style=flat&logo=linkedin&logoColor=C4B5FD&labelColor=111827" />
   </a>
   &nbsp;
   <a href="mailto:tokaosamaelqersh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-111827?style=flat&logo=gmail&logoColor=C4B5FD&labelColor=111827" />
   </a>
   &nbsp;
   <a href="https://github.com/toka09">
-    <img src="https://img.shields.io/badge/GitHub-toka09-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-toka09-111827?style=flat&logo=github&logoColor=C4B5FD&labelColor=111827" />
   </a>
 </p>
 
@@ -37,7 +43,7 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-##  About Me
+## About Me
 
 ```ts
 const toka = {
@@ -80,7 +86,7 @@ My focus is building interfaces that don't just work, but feel **clean, intuitiv
 <h3 align="center">EMBERA</h3>
 
 <a href="https://embera-seven.vercel.app/">
-  <img src="./assets/embera.png" width="100%" alt="Embera Project"/>
+  <img src="https://raw.githubusercontent.com/toka09/toka09/main/assets/embera.png" width="100%" alt="Embera Project"/>
 </a>
 
 <br/><br/>
@@ -95,7 +101,7 @@ A polished candle and lifestyle experience focused on strong visual presentation
 
 <p align="center">
   <a href="https://embera-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/VIEW%20LIVE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Live-312E81?style=flat&logo=vercel&logoColor=EDE9FE&labelColor=312E81"/>
   </a>
 </p>
 
@@ -106,7 +112,7 @@ A polished candle and lifestyle experience focused on strong visual presentation
 <h3 align="center">DST</h3>
 
 <a href="https://www.dst.com.sa/">
-  <img src="./assets/dst.png" width="100%" alt="DST Project"/>
+  <img src="https://raw.githubusercontent.com/toka09/toka09/main/assets/dst.png" width="100%" alt="DST Project"/>
 </a>
 
 <br/><br/>
@@ -121,7 +127,7 @@ A production corporate website delivering a structured, professional, and respon
 
 <p align="center">
   <a href="https://www.dst.com.sa/">
-    <img src="https://img.shields.io/badge/VIEW%20LIVE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Live-312E81?style=flat&logo=googlechrome&logoColor=EDE9FE&labelColor=312E81"/>
   </a>
 </p>
 
@@ -138,7 +144,7 @@ A production corporate website delivering a structured, professional, and respon
 <h3 align="center">VERDORA</h3>
 
 <a href="https://verdora-pi.vercel.app/home">
-  <img src="./assets/verdora.png" width="100%" alt="Verdora Project"/>
+  <img src="https://raw.githubusercontent.com/toka09/toka09/main/assets/verdora.png" width="100%" alt="Verdora Project"/>
 </a>
 
 <br/>
@@ -153,7 +159,7 @@ A modern web experience built around reusable components, clean layouts, respons
 
 <p align="center">
   <a href="https://verdora-pi.vercel.app/home">
-    <img src="https://img.shields.io/badge/VIEW%20LIVE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Live-312E81?style=flat&logo=vercel&logoColor=EDE9FE&labelColor=312E81"/>
   </a>
 </p>
 
@@ -179,12 +185,7 @@ A modern web experience built around reusable components, clean layouts, respons
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux&theme=dark" />
 </p>
 
-<code>HTML5</code>
-<code>CSS3</code>
-<code>JavaScript</code>
-<code>TypeScript</code>
-<code>React</code>
-<code>Next.js</code>
+<code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>TypeScript</code> <code>React</code> <code>Next.js</code>
 
 <br/><br/>
 
@@ -202,10 +203,7 @@ React Router · Redux Toolkit · Context API · TanStack Query · Axios
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui,figma&theme=dark" />
 </p>
 
-<code>Tailwind CSS</code>
-<code>Bootstrap</code>
-<code>Sass</code>
-<code>Material UI</code>
+<code>Tailwind CSS</code> <code>Bootstrap</code> <code>Sass</code> <code>Material UI</code>
 
 <br/><br/>
 
@@ -227,8 +225,7 @@ Ant Design · Responsive Design · Mobile-First UI · Figma
   <img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" />
 </p>
 
-<code>React Native</code>
-<code>Expo</code>
+<code>React Native</code> <code>Expo</code>
 
 <br/><br/>
 
@@ -246,9 +243,7 @@ Cross-Platform Development · Responsive Mobile UI
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" />
 </p>
 
-<code>Node.js</code>
-<code>Express.js</code>
-<code>Firebase</code>
+<code>Node.js</code> <code>Express.js</code> <code>Firebase</code>
 
 <br/><br/>
 
@@ -270,10 +265,7 @@ Firestore · Authentication · REST APIs · JSON · API Integration
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,postman&theme=dark" />
 </p>
 
-<code>Git</code>
-<code>GitHub</code>
-<code>VS Code</code>
-<code>Vite</code>
+<code>Git</code> <code>GitHub</code> <code>VS Code</code> <code>Vite</code>
 
 <br/><br/>
 
@@ -291,9 +283,7 @@ npm · Postman · Chrome DevTools
   <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" />
 </p>
 
-<code>Vercel</code>
-<code>Netlify</code>
-<code>GitHub Pages</code>
+<code>Vercel</code> <code>Netlify</code> <code>GitHub Pages</code>
 
 <br/><br/>
 
@@ -373,11 +363,11 @@ Practical training in frontend fundamentals, JavaScript, responsive development,
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Responsive%20UI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-6366F1?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Native-4F46E5?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/API%20Integration-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20UI-1F2937?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-1F2937?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React%20Native-1F2937?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/API%20Integration-1F2937?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-1F2937?style=flat&logoColor=white"/>
 
 </p>
 
@@ -391,12 +381,12 @@ Practical training in frontend fundamentals, JavaScript, responsive development,
 
 <img
 width="49%"
-src="https://github-readme-stats.vercel.app/api?username=toka09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9"
+src="https://github-readme-stats.vercel.app/api?username=toka09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=CBD5E1"
 />
 
 <img
 width="37%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=toka09&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=toka09&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=CBD5E1"
 />
 
 </p>
@@ -415,11 +405,11 @@ and creating better experiences across **web × mobile**.
 <br/>
 
 <a href="https://www.linkedin.com/in/toka-elqersh">
-  <img src="https://img.shields.io/badge/LinkedIn-Toka%20Elqersh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Toka%20Elqersh-111827?style=flat&logo=linkedin&logoColor=C4B5FD&labelColor=111827"/>
 </a>
 
 <a href="mailto:tokaosamaelqersh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-111827?style=flat&logo=gmail&logoColor=C4B5FD&labelColor=111827"/>
 </a>
 
 </p>
@@ -435,6 +425,6 @@ and creating better experiences across **web × mobile**.
 </p>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=110&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:7C3AED&height=110&section=footer"
 width="100%"
 />
