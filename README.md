@@ -120,8 +120,7 @@ const toka = {
 
 ## Technology
 
-<table>
-<tr>
+<table align="center" width="82%"><tr>
 
 <td width="50%" valign="top">
 
