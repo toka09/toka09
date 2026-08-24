@@ -1,130 +1,91 @@
 <p align="center">
-  <img src="hero.png" width="100%" alt="Toka Elqersh — Frontend & Cross-Platform Developer" />
+  <img src="./hero.png" width="100%" alt="Toka Elqersh — Frontend & Cross-Platform Developer" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
   <a href="mailto:tokaosamaelqersh@gmail.com"><b>Email</b></a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/toka09"><b>GitHub</b></a>
 </p>
 
 <br>
 
-## ABOUT
+## About
 
-I'm **Toka Elqersh**, a **Frontend & Cross-Platform Developer** focused on building polished, responsive, and maintainable digital products across **web and mobile**.
+I'm **Toka Elqersh**, a Frontend & Cross-Platform Developer building polished, responsive, and maintainable experiences across **web and mobile**.
 
-I work mainly with **React, React Native, TypeScript, JavaScript, APIs, and modern frontend tooling**, with particular attention to interface quality, reusable architecture, and user experience.
+I work mainly with **React, React Native, TypeScript, JavaScript, APIs, and modern frontend tooling**, with a strong focus on reusable architecture and interface quality.
 
-**ITI Cross-Platform Development Graduate — 2026**  
-**Route Front-End Development Graduate**
+**ITI Cross-Platform Development Graduate — 2026** &nbsp;·&nbsp; **Route Front-End Development Graduate**
 
 <br>
 
 ---
 
-# SELECTED WORK
+## Selected Work
+
+<p align="center">
+  <a href="https://embera-seven.vercel.app/">
+    <img src="./embera.webp" width="49%" alt="Embera animated preview" />
+  </a>
+  <a href="https://www.dst.com.sa/">
+    <img src="./dst.webp" width="49%" alt="DST animated preview" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://embera-seven.vercel.app/"><b>Embera — View Live ↗</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.dst.com.sa/"><b>DST — View Live ↗</b></a>
+</p>
 
 <br>
-
-### `01` &nbsp; EMBERA
-**Candle Atelier / Digital Experience**
-
-<a href="https://embera-seven.vercel.app/">
-  <img src="embera-preview.webp" width="100%" alt="Embera animated project preview" />
-</a>
-
-A refined digital experience built around visual storytelling, responsive layouts, and smooth interaction across devices.
-
-`React` &nbsp; `JavaScript` &nbsp; `Responsive UI`
-
-**[VIEW LIVE PROJECT ↗](https://embera-seven.vercel.app/)**
-
-<br><br>
-
----
-
-<br>
-
-### `02` &nbsp; DST
-**Corporate Technology / Production Website**
-
-<a href="https://www.dst.com.sa/">
-  <img src="dst-preview.webp" width="100%" alt="DST animated project preview" />
-</a>
-
-A production corporate website delivering a structured, professional, and responsive experience across devices.
-
-`Frontend Development` &nbsp; `Responsive Design` &nbsp; `Production`
-
-**[VIEW LIVE PROJECT ↗](https://www.dst.com.sa/)**
-
-<br><br>
-
----
-
-<br>
-
-### `03` &nbsp; VERDORA
-**Modern Web Application**
 
 <a href="https://verdora-pi.vercel.app/home">
-  <img src="verdora-preview.webp" width="100%" alt="Verdora animated project preview" />
+  <img src="./verdora.webp" width="100%" alt="Verdora animated preview" />
 </a>
 
-A responsive web application built around reusable components, API integration, clean layouts, and intuitive navigation.
+<p align="center">
+  <a href="https://verdora-pi.vercel.app/home"><b>Verdora — View Live ↗</b></a>
+</p>
 
-`React` &nbsp; `API Integration` &nbsp; `Reusable Components`
-
-**[VIEW LIVE PROJECT ↗](https://verdora-pi.vercel.app/home)**
-
-<br><br>
+<br>
 
 ---
 
-# TECHNOLOGY
+## Technology
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,firebase,nodejs,express,git,github,vscode,vite,npm,postman,figma,vercel&theme=dark" />
 </p>
 
 <p align="center">
-  React · Next.js · TypeScript · JavaScript · React Native · Expo · Redux Toolkit · React Router · TanStack Query · Axios
+  React · React Native · Next.js · TypeScript · Redux Toolkit · React Router · TanStack Query · Axios
   <br>
-  Tailwind CSS · Bootstrap · Sass · Material UI · Ant Design · Firebase · Firestore · REST APIs · Node.js · Express
+  Tailwind CSS · Bootstrap · Sass · Material UI · Firebase · Node.js · Express · REST APIs
   <br>
-  Git · GitHub · VS Code · Vite · npm · Postman · Figma · Vercel
+  Git · GitHub · VS Code · Vite · Postman · Figma · Vercel
 </p>
 
 <br>
 
 ---
 
-# EDUCATION
+## Education
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 2026 — ITI
-**Information Technology Institute**  
+**2026 — Information Technology Institute (ITI)**  
 Cross-Platform Development Track — **Graduate**
 
 React · React Native · APIs · Application Architecture · Git · Team Collaboration
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### Route Academy
-**Front-End Development Diploma**
+**Route Academy**  
+Front-End Development Diploma
 
 HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST APIs · Git
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -132,18 +93,12 @@ HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST API
 
 <div align="center">
 
-## LET'S CONNECT
+## Let's Connect
 
-I'm open to **Frontend, Cross-Platform, and Product Development opportunities**.
+Open to **Frontend, Cross-Platform, and Product Development opportunities**.
 
-<br>
-
-<a href="https://www.linkedin.com/in/toka-elqersh"><b>LinkedIn</b></a>
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-<a href="mailto:tokaosamaelqersh@gmail.com"><b>Email Me</b></a>
-
-<br><br>
-
-**WEB &nbsp; × &nbsp; MOBILE &nbsp; × &nbsp; EXPERIENCE**
+[LinkedIn](https://www.linkedin.com/in/toka-elqersh)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[Email](mailto:tokaosamaelqersh@gmail.com)
 
 </div>
