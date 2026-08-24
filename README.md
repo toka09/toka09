@@ -201,17 +201,6 @@ HTML · CSS · JavaScript · Bootstrap · React · Responsive Design · REST API
 ---
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=toka09&bg_color=0D1117&color=8B949E&line=4F7DF3&point=E6EDF3&area=true&area_color=4F7DF3&hide_border=true&custom_title=Contribution%20Activity"
-    width="100%"
-    alt="Toka Elqersh GitHub Activity"
-  />
-</p>
-
-<br>
 <!-- ===================== FOOTER ===================== -->
 
 ---
